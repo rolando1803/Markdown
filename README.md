@@ -91,4 +91,7 @@ function myFunction(a, b) {
 * [ ] tarea 3
 * [x] tarea 4
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+![image](https://github.com/rolando1803/CursoMarkdown/assets/55965131/6df033c5-dab6-4e58-bf71-e28923e846aa)
+
+
