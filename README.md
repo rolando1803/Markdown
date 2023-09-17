@@ -91,6 +91,6 @@ function myFunction(a, b) {
 * [ ] tarea 3
 * [x] tarea 4
 
-* [ hi] <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+* [ hi] <a [href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"](https://youtu.be/oxaH9CFpeEE?si=SwpMlV70USZl4TzC)https://youtu.be/oxaH9CFpeEE?si=SwpMlV70USZl4TzC /></a>
