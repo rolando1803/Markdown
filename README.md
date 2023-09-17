@@ -77,6 +77,16 @@ function myFunction(a, b) {
 
 <!-- guthub markdown -->
 * [x] tarea 1
+* [ ] tarea 2
+* [ ] tarea 3
+* [x] tarea 4
+
+<!-- usurio recibe la documentacion emojis -->
+@FaztWeb :smiley: :+1:
+
+
+<!-- guthub markdown -->
+* [x] tarea 1
 * [x] tarea 2
 * [] tarea 3
 * [x] tarea 4
